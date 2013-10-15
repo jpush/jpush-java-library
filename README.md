@@ -1,4 +1,7 @@
-JPush server library v2.0 for Java
+Moved to https://github.com/jpush/jpush-api-java-client
+
+
+JPush API library v2.0 for Java
 ==================================
 
 API2.0参数介绍：
